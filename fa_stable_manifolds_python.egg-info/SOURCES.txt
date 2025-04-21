@@ -1,0 +1,8 @@
+setup.py
+fa_stable_manifolds_python/__init__.py
+fa_stable_manifolds_python/example.py
+fa_stable_manifolds_python/factor_analysis.py
+fa_stable_manifolds_python.egg-info/PKG-INFO
+fa_stable_manifolds_python.egg-info/SOURCES.txt
+fa_stable_manifolds_python.egg-info/dependency_links.txt
+fa_stable_manifolds_python.egg-info/top_level.txt
